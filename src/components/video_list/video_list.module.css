@@ -1,0 +1,9 @@
+*{
+  box-sizing: border-box;
+}
+
+.videos{
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0;
+}
